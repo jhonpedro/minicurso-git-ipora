@@ -1,4 +1,4 @@
 # Mini curso git Iporá
 
 
-Essa branch tem esse text
+Minucurso apresentado no dia 01/06/2022
